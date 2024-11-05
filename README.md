@@ -20,6 +20,8 @@ $ pip install .
 
 ## Usage
 
+It uses image matching to locate buttons and text fields on the UI. Only the light theme is supported. Ensure the chat window has a white background before proceeding.
+
 Below is an example of how to use the `ChatGPTAutomator` class to get responses for multiple prompts.
 
 ```python
