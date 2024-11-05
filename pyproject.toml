@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "llmdriver"
+version = "0.1.0"
+description = ""
+authors = ["ww <ww@air.local>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyautogui = "^0.9.54"
+pyperclip = "^1.9.0"
+tqdm = "^4.66.6"
+pillow = "^11.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
