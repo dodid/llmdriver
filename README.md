@@ -1,6 +1,6 @@
 # llmdriver
 
-`llmdriver` is a Python package designed to automate interactions with large language model (LLM) user interfaces, such as ChatGPT, by simulating keyboard and mouse actions. This package is ideal for scenarios requiring repetitive, iterative prompt submissions and response retrievals from LLM-based interfaces.
+`llmdriver` is a Python package designed to automate interactions with large language model (LLM) user interfaces, such as ChatGPT, by simulating keyboard and mouse actions. This package is ideal for scenarios requiring repetitive, iterative prompt submissions and response retrievals from LLM-based interfaces. **It works on Mac only**.
 
 ## Features
 

@@ -1,7 +1,7 @@
 # llmdriver/__init__.py
 
-from .ChatgptAutomator import ChatGPTAutomator
+from .chatgpt import ChatGPTAutomator
 from .llmdriver import LLMAutomator, PromptGenerator
-from .NotebookLMAutomator import NotebookLMAutomator
+from .notebooklm import NotebookLMAutomator
 
-__all__ = ["ChatGPTAutomator", "NotebookLMAutomator", "LLMAutomator", "PromptGenerator"]
+__all__ = ["ChatGPTAutomator", "notebooklm", "LLMAutomator", "PromptGenerator"]
