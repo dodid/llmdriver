@@ -44,6 +44,8 @@ pg = MyPromptGenerator()
 automator.run(pg)
 ```
 
+For a more comprehensive example, check out [apigen.py on GitHub](https://github.com/dodid/ibwebapi/blob/main/tools/apigen.py).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
